@@ -37,4 +37,25 @@ Data Exploration is performed using MS-SQL Utilizing SQL's powerful querying cap
 
 ## Screenshots of the Queries Output:
 
+## Joins:
+
+![image](https://github.com/nsultana5/Data-Exploration-In-SQL/assets/98044004/389f7be6-6a3d-474f-b629-e3bcf0196155)
+
+## CTE's (Common Table Expression)
+
+![image](https://github.com/nsultana5/Data-Exploration-In-SQL/assets/98044004/05bb2da6-a26e-485d-becb-f68a9c40a434)
+
+## Temp Table (Windows Functions and Aggregate Functions)
+
+![image](https://github.com/nsultana5/Data-Exploration-In-SQL/assets/98044004/539697e5-32e4-4357-b5dc-fa30c4e1f19d)
+
+## Setup Instructions
+
+Clone the repository to your local machine. Install SQL database management system (DBMS) if not already installed. Run SQL scripts in the /scripts directory in sequential order. Review the output files and visualizations in the /results directory. Usage Modify SQL queries or scripts as needed for custom analysis. Refer to documentation for detailed explanations of data sources and methodologies. Share findings with stakeholders and decision-makers for informed decision-making.
+
+
+
+
+
+
 
